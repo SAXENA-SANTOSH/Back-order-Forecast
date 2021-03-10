@@ -1,0 +1,48 @@
+2020-05-15/20:27:25		Column Length Validation Started!!
+2020-05-15/20:27:31		Invalid Column Length for the file!! File moved to Bad Raw Folder :: BackOrder_10052025_120216.csv
+2020-05-15/20:27:31		Invalid Column Length for the file!! File moved to Bad Raw Folder :: BackOrder_10052025_120221.csv
+2020-05-15/20:27:33		Column Length Validation Completed!!
+2020-05-15/20:29:08		Column Length Validation Started!!
+2020-05-15/20:29:08		Invalid Column Length for the file!! File moved to Bad Raw Folder :: BackOrder_10052025_120216.csv
+2020-05-15/20:29:08		Invalid Column Length for the file!! File moved to Bad Raw Folder :: BackOrder_10052025_120221.csv
+2020-05-15/20:29:10		Column Length Validation Completed!!
+2020-05-15/20:29:56		Column Length Validation Started!!
+2020-05-15/20:29:56		Invalid Column Length for the file!! File moved to Bad Raw Folder :: BackOrder_10052025_120216.csv
+2020-05-15/20:29:56		Invalid Column Length for the file!! File moved to Bad Raw Folder :: BackOrder_10052025_120221.csv
+2020-05-15/20:29:57		Column Length Validation Completed!!
+2020-05-15/20:30:28		Column Length Validation Started!!
+2020-05-15/20:30:28		Invalid Column Length for the file!! File moved to Bad Raw Folder :: BackOrder_10052025_120216.csv
+2020-05-15/20:30:28		Invalid Column Length for the file!! File moved to Bad Raw Folder :: BackOrder_10052025_120221.csv
+2020-05-15/20:30:28		Column Length Validation Completed!!
+2020-05-15/20:31:39		Column Length Validation Started!!
+2020-05-15/20:31:39		Invalid Column Length for the file!! File moved to Bad Raw Folder :: BackOrder_10052025_120216.csv
+2020-05-15/20:31:39		Invalid Column Length for the file!! File moved to Bad Raw Folder :: BackOrder_10052025_120221.csv
+2020-05-15/20:31:40		Column Length Validation Completed!!
+2020-05-15/20:32:58		Column Length Validation Started!!
+2020-05-15/20:32:58		Invalid Column Length for the file!! File moved to Bad Raw Folder :: BackOrder_10052025_120216.csv
+2020-05-15/20:32:58		Invalid Column Length for the file!! File moved to Bad Raw Folder :: BackOrder_10052025_120221.csv
+2020-05-15/20:33:00		Column Length Validation Completed!!
+2020-05-15/20:39:52		Column Length Validation Started!!
+2020-05-15/20:39:53		Invalid Column Length for the file!! File moved to Bad Raw Folder :: BackOrder_10052025_120216.csv
+2020-05-15/20:39:53		Invalid Column Length for the file!! File moved to Bad Raw Folder :: BackOrder_10052025_120221.csv
+2020-05-15/20:39:53		Column Length Validation Completed!!
+2020-05-15/20:41:03		Column Length Validation Started!!
+2020-05-15/20:41:03		Invalid Column Length for the file!! File moved to Bad Raw Folder :: BackOrder_10052025_120216.csv
+2020-05-15/20:41:03		Invalid Column Length for the file!! File moved to Bad Raw Folder :: BackOrder_10052025_120221.csv
+2020-05-15/20:41:04		Column Length Validation Completed!!
+2020-05-15/20:45:46		Column Length Validation Started!!
+2020-05-15/20:45:46		Invalid Column Length for the file!! File moved to Bad Raw Folder :: BackOrder_10052025_120216.csv
+2020-05-15/20:45:46		Invalid Column Length for the file!! File moved to Bad Raw Folder :: BackOrder_10052025_120221.csv
+2020-05-15/20:45:49		Column Length Validation Completed!!
+2020-05-15/20:53:01		Column Length Validation Started!!
+2020-05-15/20:53:01		Invalid Column Length for the file!! File moved to Bad Raw Folder :: BackOrder_10052025_120216.csv
+2020-05-15/20:53:01		Invalid Column Length for the file!! File moved to Bad Raw Folder :: BackOrder_10052025_120221.csv
+2020-05-15/20:53:02		Column Length Validation Completed!!
+2020-05-17/19:34:10		Column Length Validation Started!!
+2020-05-17/19:34:12		Column Length Validation Completed!!
+2020-05-17/19:36:20		Column Length Validation Started!!
+2020-05-17/19:36:20		Invalid Column Length for the file!! File moved to Bad Raw Folder :: backOrder_10052029_210320.csv
+2020-05-17/19:36:21		Column Length Validation Completed!!
+2020-05-17/20:09:25		Column Length Validation Started!!
+2020-05-17/20:09:25		Invalid Column Length for the file!! File moved to Bad Raw Folder :: backOrder_10052029_210320.csv
+2020-05-17/20:09:26		Column Length Validation Completed!!

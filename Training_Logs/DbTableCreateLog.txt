@@ -1,0 +1,10 @@
+2020-05-15/20:28:45		Error while creating table: unrecognized token: ":" 
+2020-05-15/20:30:03		Error while creating table: near "Index": syntax error 
+2020-05-15/20:31:04		Error while creating table: near "Index": syntax error 
+2020-05-15/20:31:57		Tables created successfully!!
+2020-05-15/20:35:50		Tables created successfully!!
+2020-05-15/20:47:12		Tables created successfully!!
+2020-05-15/20:53:06		Tables created successfully!!
+2020-05-17/19:34:16		Tables created successfully!!
+2020-05-17/19:36:29		Tables created successfully!!
+2020-05-17/20:09:31		Tables created successfully!!

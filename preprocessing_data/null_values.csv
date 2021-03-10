@@ -1,0 +1,21 @@
+,columns,missing values count
+0,national_inv,0
+1,lead_time,69
+2,in_transit_qty,0
+3,forecast_3_month,0
+4,forecast_6_month,0
+5,forecast_9_month,0
+6,sales_1_month,0
+7,sales_3_month,0
+8,sales_6_month,0
+9,sales_9_month,0
+10,min_bank,0
+11,potential_issue,0
+12,pieces_past_due,0
+13,perf_6_month_avg,0
+14,perf_12_month_avg,0
+15,local_bo_qty,0
+16,deck_risk,0
+17,ppap_risk,0
+18,stop_auto_buy,0
+19,rev_stop,0
