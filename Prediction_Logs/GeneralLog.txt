@@ -1,0 +1,5 @@
+2020-05-17/22:32:41		BadRaw directory deleted before starting validation!!!
+2020-05-17/22:32:41		GoodRaw directory deleted successfully!!!
+2020-05-17/22:37:02		GoodRaw directory deleted successfully!!!
+2020-05-17/22:37:02		Bad files moved to archive
+2020-05-17/22:37:02		Bad Raw Data Folder Deleted successfully!!

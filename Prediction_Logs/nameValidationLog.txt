@@ -1,0 +1,5 @@
+2020-05-17/22:32:42		Valid File name!! File moved to GoodRaw Folder :: BackOrder_10052027_120218.csv
+2020-05-17/22:32:42		Valid File name!! File moved to GoodRaw Folder :: BackOrder_10052028_120219.csv
+2020-05-17/22:32:42		Valid File name!! File moved to GoodRaw Folder :: BackOrder_10052029_120220.csv
+2020-05-17/22:32:42		Invalid File Name!! File moved to Bad Raw Folder :: wafer_07012020_041011.csv
+2020-05-17/22:32:42		Invalid File Name!! File moved to Bad Raw Folder :: Wafer_15010_130532.csv

@@ -1,0 +1,68 @@
+2020-05-17/23:40:39		Start of Prediction
+2020-05-17/23:40:39		Entered the get_data method of the Data_Getter class
+2020-05-17/23:40:39		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-17/23:40:41		Entered the remove_columns method of the Preprocessor class
+2020-05-17/23:40:41		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-05-17/23:40:42		Entered the is_null_present method of the Preprocessor class
+2020-05-17/23:40:42		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-17/23:40:45		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2020-05-17/23:40:45		Exception occured in get_columns_with_zero_std_deviation method of the Preprocessor class. Exception message:  'potential_issue'
+2020-05-17/23:40:45		Column search for Standard Deviation of Zero Failed. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2020-05-17/23:40:52		Error occured while running the prediction!! Error:: 
+2020-05-17/23:50:14		Start of Prediction
+2020-05-17/23:50:14		Entered the get_data method of the Data_Getter class
+2020-05-17/23:50:14		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-17/23:50:15		Entered the remove_columns method of the Preprocessor class
+2020-05-17/23:50:15		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-05-17/23:50:16		Entered the is_null_present method of the Preprocessor class
+2020-05-17/23:50:17		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-17/23:50:18		Entered the scale_numerical_columns method of the Preprocessor class
+2020-05-17/23:50:18		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-05-17/23:50:23		Entered the find_correct_model_file method of the File_Operation class
+2020-05-17/23:50:23		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-17/23:50:25		Entered the load_model method of the File_Operation class
+2020-05-17/23:50:25		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2020-05-17/23:50:36		End of Prediction
+2020-05-17/23:54:10		Start of Prediction
+2020-05-17/23:54:10		Entered the get_data method of the Data_Getter class
+2020-05-17/23:54:10		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-17/23:54:11		Entered the remove_columns method of the Preprocessor class
+2020-05-17/23:54:11		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-05-17/23:54:11		Entered the is_null_present method of the Preprocessor class
+2020-05-17/23:54:11		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-17/23:54:11		Entered the scale_numerical_columns method of the Preprocessor class
+2020-05-17/23:54:11		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-05-17/23:54:11		Entered the find_correct_model_file method of the File_Operation class
+2020-05-17/23:54:11		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-17/23:54:11		Entered the load_model method of the File_Operation class
+2020-05-17/23:54:11		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2020-05-17/23:54:12		Error occured while running the prediction!! Error:: 'Prediction'
+2020-05-17/23:58:08		Start of Prediction
+2020-05-17/23:58:08		Entered the get_data method of the Data_Getter class
+2020-05-17/23:58:08		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-17/23:58:08		Entered the remove_columns method of the Preprocessor class
+2020-05-17/23:58:08		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-05-17/23:58:08		Entered the is_null_present method of the Preprocessor class
+2020-05-17/23:58:08		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-17/23:58:08		Entered the scale_numerical_columns method of the Preprocessor class
+2020-05-17/23:58:08		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-05-17/23:58:08		Entered the find_correct_model_file method of the File_Operation class
+2020-05-17/23:58:08		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-17/23:58:08		Entered the load_model method of the File_Operation class
+2020-05-17/23:58:08		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2020-05-17/23:58:13		End of Prediction
+2020-05-18/00:10:31		Error occured while running the prediction!! Error:: [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Output_File/Predictions.csv'
+2020-05-18/00:10:45		Start of Prediction
+2020-05-18/00:10:45		Entered the get_data method of the Data_Getter class
+2020-05-18/00:10:45		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-18/00:10:45		Entered the remove_columns method of the Preprocessor class
+2020-05-18/00:10:45		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-05-18/00:10:45		Entered the is_null_present method of the Preprocessor class
+2020-05-18/00:10:45		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-18/00:10:45		Entered the scale_numerical_columns method of the Preprocessor class
+2020-05-18/00:10:45		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-05-18/00:10:45		Entered the find_correct_model_file method of the File_Operation class
+2020-05-18/00:10:45		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-18/00:10:45		Entered the load_model method of the File_Operation class
+2020-05-18/00:10:45		Model File XGBoost loaded. Exited the load_model method of the Model_Finder class
+2020-05-18/00:10:45		End of Prediction
